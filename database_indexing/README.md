@@ -34,4 +34,4 @@ In this benchmark, the v1-network is a 5 layer fully connected network, with 100
 
 ## Verification instruction
 
-There are three folders: normal, lognormal, and piecewise. Each folder contains 3 instance files, and each file has a time limit less tahn 20 mins in total to verify all the specifications. Each specification contains a short range of the key and a short range of the index. We need to verify whether the output of the network for the given key range falls in the given index range.
+Please first unzip the benchmarks.zip. There are three folders: normal, lognormal, and piecewise. Each folder contains 3 instance files, and each file has a time limit less tahn 20 mins in total to verify all the specifications. Each specification contains a short range of the key and a short range of the index. We need to verify whether the output of the network for the given key range falls in the given index range.
