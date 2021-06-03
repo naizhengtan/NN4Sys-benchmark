@@ -1,0 +1,5 @@
+nets/lognormal_100.onnx.gz,specs/lognormal_100_1_2_4_7_8.vnnlib,271
+nets/lognormal_100.onnx.gz,specs/lognormal_100_13_14_15_19_20.vnnlib,371
+nets/lognormal_100.onnx.gz,specs/lognormal_100_26_27_28_47_48.vnnlib,417
+nets/lognormal_100.onnx.gz,specs/lognormal_100_49_50_51_52_53.vnnlib,485
+nets/lognormal_100.onnx.gz,specs/lognormal_100_54_55_72_73_74.vnnlib,538

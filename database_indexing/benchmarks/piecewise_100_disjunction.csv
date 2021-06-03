@@ -1,0 +1,5 @@
+nets/piecewise_100.onnx.gz,specs/piecewise_100_1_3_5_7_9.vnnlib,777
+nets/piecewise_100.onnx.gz,specs/piecewise_100_11_13_15_16_18.vnnlib,860
+nets/piecewise_100.onnx.gz,specs/piecewise_100_21_18_21_23_25.vnnlib,1208
+nets/piecewise_100.onnx.gz,specs/piecewise_100_27_28_31_33_35.vnnlib,1058
+nets/piecewise_100.onnx.gz,specs/piecewise_100_36_37_38_39_41.vnnlib,1183
