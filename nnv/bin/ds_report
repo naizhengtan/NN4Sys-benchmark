@@ -1,0 +1,6 @@
+#!/Users/Chioma_N/Desktop/object/nnv/bin/python3.7
+
+from deepspeed.env_report import main
+
+if __name__ == '__main__':
+    main()
